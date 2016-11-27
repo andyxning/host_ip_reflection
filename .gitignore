@@ -22,3 +22,7 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+/.idea
+/host_ip_reflection
+.idea/vcs.xml
